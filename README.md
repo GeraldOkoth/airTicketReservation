@@ -1,3 +1,3 @@
-
-## This is a C++ project to implement online _air ticket reservation_.
+## Air Ticket Reservation
+An online system for _air ticket reservation_.
    ***
